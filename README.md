@@ -1,5 +1,6 @@
 # Spam-_filter_detection
 Detect that upcoming email is spam or not
+
 1.jupyter notebook or anaconda version 3.0 or avobe
 2.collect the dataset
 3.required libraries(Naive baise)
