@@ -4,9 +4,8 @@ Detect that upcoming email is spam or not
 1.jupyter notebook or anaconda version 3.0 or avobe
 2.collect the dataset
 3.required libraries(Naive baise)
-4. Relevant Information:
-        The "spam" concept is diverse: advertisements for products/web
-        sites, make money fast schemes, chain letters, pornography...
+4. Relevant Information: The "spam" concept is diverse: advertisements for products/websites,
+        make money fast schemes, chain letters, pornography...
 	Our collection of spam e-mails came from our postmaster and 
 	individuals who had filed spam.  Our collection of non-spam 
 	e-mails came from filed work and personal e-mails, and hence
